@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
