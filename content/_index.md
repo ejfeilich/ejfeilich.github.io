@@ -79,7 +79,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -104,6 +104,7 @@ sections:
           title: 'J.C. Liu Prize for Outstanding Honors Thesis'
     design:
       columns: '2'
+      view: list
   #- block: collection
   #  id: posts
   #  content:
