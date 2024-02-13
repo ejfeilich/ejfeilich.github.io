@@ -21,11 +21,11 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://ejfeilich.github.io/project/feilich_inequality/240213_feilich_inequality.pdf
+url_pdf: 'https://ejfeilich.github.io/project/feilich_inequality/240213_feilich_inequality.pdf'
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
+#   Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
