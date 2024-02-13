@@ -43,8 +43,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Davis, CA
-          date_start: '2021-01-01'
-          date_end: '2022-01-01'
+          date_start: '2022-01-01'
+          date_end: '2022-03-01'
           # description: |2-
           #    Responsibilities include:
           #
