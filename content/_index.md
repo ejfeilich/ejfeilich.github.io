@@ -65,7 +65,7 @@ sections:
         - title: Economist
           company: U.S. Department of the Treasury
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Washington, DC
           date_start: '2022-10-01'
           date_end: ''
@@ -98,33 +98,19 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - date_start: '2022-01-01'
+          organization: Washington Center for Equitable Growth
+          organization_url: https://equitablegrowth.org/
+          title: 'Doctoral Grant'
+        - date_start: '2014-01-01'
+          organization: University of California, Davis
+          title: 'Graduate Fellowship'
+        - date_start: '2014-01-01'
+          organization: Binghamton University
+          title: 'Economics Faculty Award or Excellence in Economics'
+        - date_start: '2014-01-01'
+          organization: Binghamton University
+          title: 'J.C. Liu Prize for Outstanding Honors Thesis'
     design:
       columns: '2'
   #- block: collection
@@ -204,14 +190,14 @@ sections:
     id: research
     content:
       title: Research
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
