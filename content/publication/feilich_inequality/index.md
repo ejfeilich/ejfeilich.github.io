@@ -27,7 +27,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://ejfeilich.github.io/content/publication/preprint/240213_feilich_inequality.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
