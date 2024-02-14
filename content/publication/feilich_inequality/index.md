@@ -20,7 +20,7 @@ publication_short: ""
 abstract: abc
 
 # Summary. An optional shortened abstract.
-summary: 'abc'
+summary: 'abc%'
 
 #tags:
 # - Source Themes
