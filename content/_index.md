@@ -104,7 +104,6 @@ sections:
           title: 'J.C. Liu Prize for Outstanding Honors Thesis'
     design:
       columns: '2'
-      view: list
   #- block: collection
   #  id: posts
   #  content:
