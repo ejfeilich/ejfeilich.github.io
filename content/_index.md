@@ -75,7 +75,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
