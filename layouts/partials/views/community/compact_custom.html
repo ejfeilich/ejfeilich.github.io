@@ -46,7 +46,7 @@
     {{ with $publication }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="media-body">
-        {{.}}
+        {{- . -}}
       </div>
     </a>
     {{ end }}
