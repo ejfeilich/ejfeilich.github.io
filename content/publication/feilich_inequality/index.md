@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: "_Under Review_"
 publication_short: ""
 
-abstract: I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50 of households by wealth. Heterogeneous portfolios explain the disparity of responses: the top 1 of households suffer from reduced equity prices while the bottom 50 suffer from leveraged house price declines. I show that monetary contractions generate larger net worth responses than monetary easings of similar magnitude, driving persistent wealth gaps.
+abstract: I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50% of households by wealth. Heterogeneous portfolios explain the disparity of responses: the top 1% of households suffer from reduced equity prices while the bottom 50% suffer from leveraged house price declines. I show that monetary contractions generate larger net worth responses than monetary easings of similar magnitude, driving persistent wealth gaps.
 
 # Summary. An optional shortened abstract.
-summary: 'I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50\% of households by wealth.'
+summary: 'I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50% of households by wealth.'
 
 #tags:
 # - Source Themes
