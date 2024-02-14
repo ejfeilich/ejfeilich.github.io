@@ -30,7 +30,7 @@
 
 {{/* Get publication. */}}
 {{ $publication := "" }}
-{{ if $item.Params.publication }}
+{{ if $item.Params.summary }}
   {{ $publication = $item.Params.publication | markdownify | emojify }}
 {{ else if $item.Publication }}
   {{ $publication = $item.Publication }}
