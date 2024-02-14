@@ -1,7 +1,7 @@
 ---
-title: "Monetary Policy and Government Debt  
-Revise and Resubmit  
-Revise and Resubmit"
+title: 'Monetary Policy and Government Debt <br> 
+##### Revise and Resubmit  
+Revise and Resubmit'
 authors:
 - Nicolas Caramp
 - admin
