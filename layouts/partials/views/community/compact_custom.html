@@ -28,6 +28,14 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{/* Get publication. */}}
+{{ $publication := "" }}
+{{ if $item.Params.publication }}
+  {{ $publication = $item.Params.publication | markdownify | emojify }}
+{{ else if $item.Publication }}
+  {{ $publication = $item.Publication }}
+{{ end }}
+
 <div class="media stream-item view-compact">
   <div class="media-body">
 
