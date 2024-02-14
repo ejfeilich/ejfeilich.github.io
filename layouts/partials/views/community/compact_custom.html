@@ -44,7 +44,7 @@
     </div>
     
     {{ with $publication }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link" mb-0 mt-0>
+    <a class="summary-link">
       <div class="media-body">
         {{.}}
       </div>
@@ -52,7 +52,7 @@
     {{ end }}
     
     {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+    <a class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
