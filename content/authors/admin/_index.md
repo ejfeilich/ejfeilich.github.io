@@ -22,7 +22,7 @@ role: Economist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: U.S. Department of the Treasury
-    url: 
+    url: https://home.treasury.gov/about/offices/economic-policy
 
 # Short bio (displayed in user profile at end of posts)
 bio: Economist in the Office of Economic Policy at the U.S. Department of the Treasury
