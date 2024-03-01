@@ -22,7 +22,7 @@ role: Economist
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: U.S. Department of the Treasury
-    url: 
+    url: https://home.treasury.gov/about/offices/economic-policy
 
 # Short bio (displayed in user profile at end of posts)
 bio: Economist in the Office of Economic Policy at the U.S. Department of the Treasury
@@ -106,6 +106,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ethan-f-3a928a275/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://econtwitter.net/@1equationshort
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

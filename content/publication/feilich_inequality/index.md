@@ -14,13 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "_Under Review_"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50% of households by wealth. Heterogeneous portfolios explain the disparity of responses: the top 1% of households suffer from reduced equity prices while the bottom 50% suffer from leveraged house price declines. I show that monetary contractions generate larger net worth responses than monetary easings of similar magnitude, driving persistent wealth gaps."
 
 # Summary. An optional shortened abstract.
-summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.'
+summary: "I provide new evidence that monetary policy plays a significant role in driving persistent wealth inequality in the United States. Using local projections with the Distributional Financial Accounts and high-frequency identification, I find that contractionary monetary policy disproportionately reduces the net worth of the bottom 50% of households by wealth."
 
 #tags:
 # - Source Themes
@@ -57,9 +57,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
