@@ -28,7 +28,7 @@ summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 featured: false
 
 links:
-url_pdf: 'https://ejfeilich.github.io/publication/caramp_monetary/220914_caramp_monetary.pdf'
+url_pdf: 'https://ejfeilich.github.io/publication/caramp_monetary/240216_caramp_monetary.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
