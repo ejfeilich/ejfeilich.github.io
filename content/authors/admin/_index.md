@@ -71,5 +71,5 @@ social:
 highlight_name: true
 ---
 
-I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. I earned a BS in Economics from Binghamton University and a PhD in Economics from the University of California, Davis. My research explores the interactions between monetary policy, wealth inequality, and the macroeconomy.
+I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. My research explores the interactions between monetary policy, wealth inequality, and the macroeconomy.
 {style="text-align: justify;"}
