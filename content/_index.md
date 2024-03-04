@@ -93,8 +93,8 @@ sections:
         - date_start: '2014-06-01'
           organization: Binghamton University
           title: 'J.C. Liu Prize for Outstanding Honors Thesis'
-    design:
-      columns: '2'
+  #  design:
+  #    columns: '2'
   #- block: portfolio
   #  id: projects
   #  content:
