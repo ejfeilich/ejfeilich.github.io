@@ -82,5 +82,4 @@ sections:
           title: 'J.C. Liu Prize for Outstanding Honors Thesis'
     design:
       columns: '2'
-  ---
-  
+---
