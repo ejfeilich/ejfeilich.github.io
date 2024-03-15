@@ -45,9 +45,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ethan Feilich. This work is licensed under {license}'
+    # '© {year} Ethan Feilich. This work is licensed under {license}'
+    notice: 
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
