@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ethan Feilich # Website name
-baseURL: 'https://ethanfeilich.com/' # Website URL
+baseURL: 'https://www.ethanfeilich.com/' # Website URL
 
 ############################
 ## LANGUAGE
