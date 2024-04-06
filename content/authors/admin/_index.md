@@ -29,7 +29,7 @@ bio: Economist in the Office of Economic Policy at the U.S. Department of the Tr
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics of Inequality
+  - Macroeconomics
   - Monetary Policy
   - Time Series Econometrics
 
@@ -60,6 +60,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://econtwitter.net/@1equationshort
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/ejfeilich.bsky.social
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,5 +74,7 @@ social:
 highlight_name: true
 ---
 
-I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. My research explores the interactions between monetary policy, wealth inequality, and the macroeconomy.
+I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. My research explores the interactions between macroeconomic policy and economic inequality.
+
+Views and opinions expressed are my own and do not necessarily represent official Treasury positions or policy.
 {style="text-align: justify;"}
