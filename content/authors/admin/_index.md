@@ -61,7 +61,7 @@ social:
     icon_pack: fab
     link: https://econtwitter.net/@1equationshort
   - icon: bluesky
-    # icon_pack: fab
+    icon_pack:
     link: https://bsky.app/profile/ejfeilich.bsky.social
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
