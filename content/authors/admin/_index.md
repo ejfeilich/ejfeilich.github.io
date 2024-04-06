@@ -75,4 +75,6 @@ highlight_name: true
 ---
 
 I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. My research explores the interactions between monetary policy, wealth inequality, and the macroeconomy.
+
+Views and opinions expressed are my own and do not necessarily represent official Treasury positions or policy.
 {style="text-align: justify;"}
