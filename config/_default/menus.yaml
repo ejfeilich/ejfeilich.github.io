@@ -11,5 +11,5 @@ main:
     url: '#research'
     weight: 20
   - name: CV
-    url: uploads/240213_ejfeilich_cv.pdf
+    url: uploads/241011_ejfeilich_cv.pdf
     weight: 30
