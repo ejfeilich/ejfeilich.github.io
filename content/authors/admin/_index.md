@@ -48,27 +48,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:ejfeilich@protonmail.com
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: mailto:ejfeilich@protonmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/ejfeilich
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ethan-f-3a928a275/
-  - icon: mastodon
-    icon_pack: fab
-    link: https://econtwitter.net/@1equationshort
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/ejfeilich.bsky.social
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/241011_ejfeilich_cv.pdf
+    link: uploads/20250711_ejfeilich-cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
