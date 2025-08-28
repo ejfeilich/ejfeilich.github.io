@@ -72,4 +72,4 @@ awards:
 
 I am an economist in the Office of Economic Policy in the U.S. Department of the Treasury. My research explores the interactions between macroeconomic policy and economic inequality.
 
-Views and opinions expressed are my own and do not necessarily represent official Treasury positions or policy.
+Views expressed are my own and do not necessarily represent official positions or policy of the U.S. Department of the Treasury.
